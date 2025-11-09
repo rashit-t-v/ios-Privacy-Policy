@@ -1,5 +1,5 @@
 # 🕌 Namaz Times - Privacy Policy
-
+### Language Versions             | [English](#) | [Russian](#) |
 <div align="center">
 
 ![Islamic Prayer](https://img.shields.io/badge/Prayer-Times-green?style=for-the-badge)
@@ -93,21 +93,17 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have questions about this Privacy Policy, please contact us:
 
-- **Email:** [your-email@example.com]
-- **GitHub Issues:** [Link to Issues page]
-- **Website:** [Your website]
+- **Email:** [byarabiyya@gmail.com]
+- **Telegram:** [[Telegram](https://t.me/EluzanHub_support)]
 
 ---
 
 ## 🛡️ Our Commitment
 
-<div align="center">
-
 **We believe your prayer times are personal.**  
 **We will never sell, rent, or share your data.**  
 **Your privacy is protected by design.**
 
-</div>
 
 ---
 
@@ -121,16 +117,6 @@ This Privacy Policy is effective as of November 9, 2025, and will remain in effe
 
 This privacy policy is open source and available for review. We encourage transparency and welcome feedback from our community.
 
-### Repository Structure
-```
-📁 Namaz-Times-iOS/
-├── 📄 README.md (This file)
-├── 📄 LICENSE
-├── 📁 Source Code
-└── 📁 Documentation
-```
-
----
 
 <div align="center">
 
@@ -141,6 +127,6 @@ This privacy policy is open source and available for review. We encourage transp
 ---
 
 ### Language Versions
-[English](#) | [العربية](#) | [Türkçe](#) | [اردو](#) | [Bahasa Indonesia](#)
+[English](#) | [Russian](#)
 
 </div>
