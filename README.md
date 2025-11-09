@@ -1,4 +1,4 @@
-# 🕌 Namaz Times - Privacy Policy
+# 🕌 Eyuzan Hub - Privacy Policy
 ### Language Versions             | [English](#) | [Russian](#) |
 <div align="center">
 
@@ -121,11 +121,6 @@ This privacy policy is open source and available for review. We encourage transp
 <div align="center">
 
 **Made with ❤️ for the Muslim Community**
-
-[Download on App Store](#) | [Report an Issue](#) | [Contribute](#)
-
----
-
 ### Language Versions
 [English](#) | [Russian](#)
 
